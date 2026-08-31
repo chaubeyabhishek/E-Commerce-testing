@@ -4,7 +4,7 @@ Clean, flat procedural Playwright automation framework without classes or Page O
 
 ---
 
-## 📁 Ordered Project Structure
+## Ordered Project Structure
 
 ```text
 QA-Project/
@@ -26,7 +26,7 @@ QA-Project/
 
 ---
 
-## 🚀 How to Run Tests
+## How to Run Tests
 
 ### 1. Install dependencies
 ```bash
