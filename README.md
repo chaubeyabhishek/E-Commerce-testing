@@ -1,4 +1,4 @@
-# 🛒 Playwright E-Commerce Automation Framework (JavaScript)
+# E-Commerce Automation Framework (JavaScript)
 
 Clean, flat procedural Playwright automation framework without classes or Page Objects. Configured for **Chromium** and **Firefox** with dummy URLs and realistic e-commerce flows.
 
