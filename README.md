@@ -1,10 +1,10 @@
-# 🛒 Playwright E-Commerce Automation Framework (JavaScript)
+# Playwright E-Commerce Automation Framework (JavaScript)
 
-Clean, flat procedural Playwright automation framework without classes or Page Objects. Configured for **Chromium** and **Firefox** with dummy URLs and realistic e-commerce flows.
+Clean, flat procedural Playwright automation framework without classes or Page Objects. Configured for Chromium and Firefox with dummy URLs and realistic e-commerce flows.
 
 ---
 
-## 📁 Ordered Project Structure (11 Test Suites)
+## Ordered Project Structure (11 Test Suites)
 
 ```text
 QA-Project/
@@ -30,7 +30,7 @@ QA-Project/
 
 ---
 
-## 🚀 How to Run Tests
+## How to Run Tests
 
 ### 1. Run all tests in order
 ```bash
