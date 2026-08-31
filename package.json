@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce-playwright-automation",
+  "version": "1.0.0",
+  "description": "E-Commerce Website Automation Testing Framework using JavaScript and Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:register": "playwright test tests/01_registration.spec.js",
+    "test:login": "playwright test tests/02_login.spec.js",
+    "test:product": "playwright test tests/03_product.spec.js",
+    "test:cart": "playwright test tests/04_cart.spec.js",
+    "test:wishlist": "playwright test tests/05_wishlist.spec.js",
+    "test:checkout": "playwright test tests/06_checkout.spec.js",
+    "test:admin": "playwright test tests/07_admin_dashboard.spec.js",
+    "report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "javascript",
+    "automation",
+    "qa",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
+}
