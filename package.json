@@ -13,6 +13,10 @@
     "test:wishlist": "playwright test tests/05_wishlist.spec.js",
     "test:checkout": "playwright test tests/06_checkout.spec.js",
     "test:admin": "playwright test tests/07_admin_dashboard.spec.js",
+    "test:profile": "playwright test tests/08_user_profile.spec.js",
+    "test:reviews": "playwright test tests/09_product_reviews.spec.js",
+    "test:filter": "playwright test tests/10_filter_and_pagination.spec.js",
+    "test:tracking": "playwright test tests/11_order_tracking.spec.js",
     "report": "playwright show-report"
   },
   "keywords": [
